@@ -4,7 +4,7 @@ An advanced, offline-first strategic intelligence platform designed for explorin
 
 ---
 
-## 🌍 Project Overview & Aims
+## Project Overview & Aims
 
 In a rapidly changing global security environment, analysts and strategic planners require immediate, reliable access to conflict data without depending on continuous cloud connectivity. 
 
@@ -16,7 +16,7 @@ In a rapidly changing global security environment, analysts and strategic planne
 
 ---
 
-## 🚀 Key Capabilities
+## Key Capabilities
 
 ### Dynamic Conflict Visualization
 Explore decades of conflict data with unparalleled fluidity. The platform supports seamless transitions between macro-level clustering and micro-level event markers, colored by severity, actor types, and fatalities.
