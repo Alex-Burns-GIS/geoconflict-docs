@@ -71,15 +71,15 @@ Go beyond the map with deep statistical analysis, escalation indicators, and tem
 
 ## Data: UCDP Georeferenced Event Dataset (GED)
 
-GeoConflict’s core conflict-event layers and downstream analytics are built on the **Uppsala Conflict Data Program (UCDP) Georeferenced Event Dataset (GED)**, an event-level dataset on organized violence. GED’s unit of analysis is the **event**: an incident where armed force is used by an organized actor against another organized actor, or against civilians, producing **at least one direct death** at a specific location and date. :contentReference[oaicite:0]{index=0}
+GeoConflict’s core conflict-event layers and downstream analytics are built on the **Uppsala Conflict Data Program (UCDP) Georeferenced Event Dataset (GED)**, an event-level dataset on organized violence. GED’s unit of analysis is the **event**: an incident where armed force is used by an organized actor against another organized actor, or against civilians, producing **at least one direct death** at a specific location and date. 
 
 Key properties leveraged by GeoConflict:
-- **Global coverage (post-1989)** with annual versioned releases (e.g., GED 25.1 covers 1989-01-01 to 2024-12-31). :contentReference[oaicite:1]{index=1}  
-- **Fine-grained spatiotemporal resolution**, geocoded to specific coordinates with a best-case resolution at settlement level, and disaggregated to the day. :contentReference[oaicite:2]{index=2}  
-- **Organized-violence typology** enabling consistent filtering and comparison across (1) state-based conflict, (2) non-state conflict, and (3) one-sided violence. :contentReference[oaicite:3]{index=3}  
-- **Fatality uncertainty handling**, where GED provides multiple fatality estimates per event, allowing GeoConflict to support both conservative and upper-bound views in trend and hotspot analysis. :contentReference[oaicite:4]{index=4}  
+- **Global coverage (post-1989)** with annual versioned releases (e.g., GED 25.1 covers 1989-01-01 to 2024-12-31). 
+- **Fine-grained spatiotemporal resolution**, geocoded to specific coordinates with a best-case resolution at settlement level, and disaggregated to the day.  
+- **Organized-violence typology** enabling consistent filtering and comparison across (1) state-based conflict, (2) non-state conflict, and (3) one-sided violence.   
+- **Fatality uncertainty handling**, where GED provides multiple fatality estimates per event, allowing GeoConflict to support both conservative and upper-bound views in trend and hotspot analysis.   
 
-If you use GeoConflict outputs in publications, please cite UCDP per their download-center guidance (including the GED reference article and the annual “organized violence” update). :contentReference[oaicite:5]{index=5}
+If you use GeoConflict outputs in publications, please cite UCDP per their download-center guidance (including the GED reference article and the annual “organized violence” update). 
 
 ---
 
